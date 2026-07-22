@@ -4,11 +4,12 @@
 <br>
 
 
-## <img src="https://img.icons8.com/?size=100&id=zj0HDoXpmTPF&format=png&color=000000" width="25"><b>About me</b>
+## <img src="https://img.icons8.com/?size=100&id=zj0HDoXpmTPF&format=png&color=FFFFFF" width="25"><b>About me</b>
 
 <br>
 
 - Sole proprietor under the business name "MIC." and work as a freelance system developer about 20 years.
+- From upstream to downstream processes; capable of enterprise-level development.
 - Primarily develop Windows-based systems and cloud systems using AWS.
 - Currently developing an automated trading system for stock investments.
 - Apart from that, occasionally, tinker with AI using Claude Code.
