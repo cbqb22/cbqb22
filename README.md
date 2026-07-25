@@ -25,9 +25,9 @@
 
 - **Languages**:
 - 
-    ![.NET](https://img.shields.io/badge/.NET%20Core-%238A2BE2)
+    ![.NET](https://img.shields.io/badge/.NET-%238A2BE2)
     ![C#/VB.NET](https://img.shields.io/badge/C%23%2FVB.NET-%238A2BE2)
-    ![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-%238A2BE2)
+    ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%238A2BE2)
     ![PHP](https://img.shields.io/badge/PHP-7b5dc9)
     ![Vue2/3](https://img.shields.io/badge/Vue2%2F3-%23156b05)
     ![Python3](https://img.shields.io/badge/Python3-%23ebf21b)
