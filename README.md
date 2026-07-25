@@ -24,7 +24,7 @@
 <p align="center">
 
 - **Languages**:
-- 
+
     ![.NET](https://img.shields.io/badge/.NET-%238A2BE2)
     ![C#/VB.NET](https://img.shields.io/badge/C%23%2FVB.NET-%238A2BE2)
     ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%238A2BE2)
